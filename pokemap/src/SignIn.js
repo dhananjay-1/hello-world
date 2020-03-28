@@ -56,7 +56,7 @@ class SignIn extends React.Component{
 							block
 							onPress={this.logIn}
 						>
-							<Text style={{color:'white'}}>SignIn/SignUp</Text>
+							<Text style={{color:'white'}}>SignIn/SignUp fast dude</Text>
 						</Button>
 					</View>
 				</View>
@@ -75,7 +75,7 @@ const styles={
 		width:width
 	},
 	inputStyle:{
-		marginTop:200,
+		marginTop:199,
 		margin:10
 	}
 }
